@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "img": "https://graph.facebook.com/1763936240355525/picture?type=large",
+    "nome": "Renan",
+    "sobrenome": "Ribeiro",
+    "cidade": "Uberlândia",
+    "estado": "MG",
+    "contato": "(11) 95428-5091",
+    "email": "trukoparker@outlook.com",
+    "biografia": "Olá, me chamo Renan, tenho 28 anos, graduando em Análise e Desenvolvimento de Sistemas e sou um profissional com fácil relacionamento entre equipes, responsável, organizado e focado nas atividades.",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Desenvolvedor Full Stack Pleno",
+        "empresa": "A5 Solutions",
+        "periodo": "Maio de 2018 - Atual",
+        "atividades": "Desenvolvedor Backend Java e C# com API REST para relatórios customizados;\nDesenvolvedor Frontend Angular com consumo de API para relatórios analíticos;\nBanco de Dados (SQL Server e PostgreSQL) e gerenciamento de servidores (Windows e Linux);\nAnálise de logs para troubleshooting e correções de bugs."
+      },
+      {
+        "id": 2,
+        "cargo": "Customer Success",
+        "empresa": "Omnize Software Ltda",
+        "periodo": "Agosto de 2015 - Abril de 2018",
+        "atividades": "Atendimento e Suporte Técnico ao cliente;\nCriação de tutoriais e páginas do site;\nGestão dos clientes na ferramenta Pipedrive;\nAnálise de logs do produto para identificação de problemas;\nCorreções / melhorias do software;\nMonitoramento de alertas da ferramenta."
+      },
+      {
+        "id": 3,
+        "cargo": "Analista de Suporte Bilíngue",
+        "empresa": "TecnoComp Tecnologia e Serviços",
+        "periodo": "Outubro de 2012 - Julho de 2015",
+        "atividades": "Suporte técnico nível 1, 2 e 3;\nAnalista de Suporte bilíngue;\nInstalação e configuração de aplicativos de Engenharia;\nConfiguração do Office 365;\nIntegração de novos usuários;\nControle de ativos;\nConfiguração do Call Manager e suporte de Vídeo Conferências."
+      },
+      {
+        "id": 4,
+        "cargo": "Estágio em Engenharia Clínica",
+        "empresa": "Beenficência Nipo Brasileira de São Paulo",
+        "periodo": "Abril de 2011 - Dezembro de 2011",
+        "atividades": "Organização e planilhamento de arquivos;\nControle, recebimento e fechamento de Ordens de Serviço;\nAgendamento e baixa de preventivas;\nRotina administrativa de Engenharia Clínica."
+      }
+    ],
+    "redesocial": {
+      "linkedin": "https://www.linkedin.com/in/renanaribeiro",
+      "github": "https://github.com/renanaribeiro",
+      "facebook": "https://www.facebook.com/trukoparker",
+      "whatsapp": "https://api.whatsapp.com/send/?phone=5511954285091"
+    },
+    "habilidades": [
+      "Agilidade",
+      "Trabalho em Equipe",
+      "Troubleshooting e soluções de bugs"
+    ],
+    "githubRepos": "https://api.github.com/users/renanaribeiro/repos"
+  }
+}
